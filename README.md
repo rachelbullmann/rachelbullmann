@@ -23,7 +23,7 @@ Security professional focused on adversary emulation, penetration testing, attac
 
 ## Red Team Adversary Emulation
 
-![Red Team Assessment](./images/red-team-assessment.png)
+![Red Team Assessment](./red-team-assessment.png)
 
 ### Scope
 
@@ -45,7 +45,7 @@ Security professional focused on adversary emulation, penetration testing, attac
 
 ## Cloud Security Exposure Assessment
 
-![Cloud Security Assessment](./images/cloud-security-assessment.png)
+![Cloud Security Assessment](./cloud-security-assessment.png)
 
 ### Focus Areas
 
@@ -65,7 +65,7 @@ Security professional focused on adversary emulation, penetration testing, attac
 
 ## Web Application Security Assessment
 
-![Web Application Security](./images/web-security-assessment.png)
+![Web Application Security](./web-security-assessment.png)
 
 ### Methodology
 
